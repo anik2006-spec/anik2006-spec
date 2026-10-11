@@ -45,7 +45,9 @@
 | 🎵 **MoodTune** | Mood-based music recommendation web app |
 | 📈 **Uplift Modeling Engine** | Personalized marketing campaign engine using uplift modeling |
 
+> 🔗 Link each project to its repo, e.g. `[SentinelAI](https://github.com/anik2006-spec/REPO-NAME)`
 
+---
 
 ### 📊 GitHub Stats
 
@@ -63,7 +65,7 @@
 ### 🏅 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anik2006-spec&theme=tokyo-night&hide_border=true" />
+  <img src="https://ghchart.rshah.org/2f81f7/anik2006-spec" alt="Contribution chart" />
 </p>
 
 ---
